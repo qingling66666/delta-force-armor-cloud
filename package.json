@@ -1,0 +1,12 @@
+{
+  "name": "delta-force-armor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "三角洲行动护甲数据库 — 云端登录与收藏版",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}

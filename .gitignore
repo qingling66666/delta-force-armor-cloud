@@ -1,0 +1,7 @@
+# 运行时生成的用户数据（含注册用户的密码哈希与会话），不上传
+data/db.json
+data/*.tmp
+
+# 依赖与临时文件
+node_modules/
+*.log
